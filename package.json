@@ -1,0 +1,23 @@
+{
+  "name": "three-base",
+  "version": "0.0.1",
+  "description": "Classless boilerplate for three.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abberg/threebase.git"
+  },
+  "author": "Andrew Berg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abberg/threebase/issues"
+  },
+  "homepage": "https://github.com/abberg/threebase#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.1.0"
+  },
+  "dependencies": {
+    "three": "^0.78.0"
+  }
+}
