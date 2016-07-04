@@ -1,1 +1,1 @@
-A class free base for three.js sketches based on Crockford's "The Better Parts"
+A class free skeleton for three.js sketches based on Crockford's "The Better Parts"
